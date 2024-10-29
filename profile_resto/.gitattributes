@@ -1,0 +1,21 @@
+
+*.cpp linguist-language=ignore
+*.cxx linguist-language=ignore
+*.h linguist-language=ignore
+*.hpp linguist-language=ignore
+*.c++ linguist-language=ignore
+*.cc linguist-language=ignore
+*.C linguist-language=ignore
+
+
+*.cmake linguist-detectable=false
+*.CMake linguist-detectable=false
+*.in linguist-detectable=false
+
+*.cmake export-ignore
+*.CMake export-ignore
+*.in export-ignore
+
+CMakeLists.txt linguist-detectable=false
+CMakeCache.txt linguist-detectable=false
+CMakeLists.txt.user linguist-detectable=false
